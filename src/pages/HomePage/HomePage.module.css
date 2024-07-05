@@ -1,0 +1,13 @@
+.title {
+  font-weight: 500;
+  font-size: 48px;
+  text-align: center;
+  color: #3a87ad; 
+}
+
+.container {
+  min-height: calc(100vh - 500px); 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
